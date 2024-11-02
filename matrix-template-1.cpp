@@ -87,8 +87,6 @@ public:
       int temp;
       for (int i = 0; i < SIZE; i++) {
         swap(data[row1][i], data[row2][i]);
-         // temp = data[i][j];
-          //data[i][j] = 
 
       }
   }
